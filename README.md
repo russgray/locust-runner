@@ -1,2 +1,2 @@
-# python-nose-runner
-Simple docker image to run a set of python tests using nose and produce xunit output
+# locust-runner
+Simple docker image to run locust load-testing using test files mounted as a volume
